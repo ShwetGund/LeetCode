@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ShwetGund/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShwetGund/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ShwetGund/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShwetGund/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShwetGund/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -22,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShwetGund/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ShwetGund/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ShwetGund/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShwetGund/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ShwetGund/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ShwetGund/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShwetGund/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ShwetGund/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ShwetGund/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShwetGund/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -86,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShwetGund/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
