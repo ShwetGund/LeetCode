@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ShwetGund/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ShwetGund/LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/ShwetGund/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ShwetGund/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShwetGund/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShwetGund/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShwetGund/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShwetGund/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ShwetGund/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ShwetGund/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ShwetGund/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ShwetGund/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ShwetGund/LeetCode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/ShwetGund/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShwetGund/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShwetGund/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ShwetGund/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ShwetGund/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ShwetGund/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ShwetGund/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShwetGund/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShwetGund/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShwetGund/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
