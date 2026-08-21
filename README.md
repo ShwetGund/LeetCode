@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShwetGund/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShwetGund/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ShwetGund/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ShwetGund/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ShwetGund/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ShwetGund/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShwetGund/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShwetGund/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShwetGund/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShwetGund/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ShwetGund/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShwetGund/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShwetGund/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ShwetGund/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShwetGund/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShwetGund/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShwetGund/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShwetGund/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ShwetGund/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ShwetGund/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShwetGund/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShwetGund/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShwetGund/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShwetGund/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ShwetGund/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShwetGund/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
