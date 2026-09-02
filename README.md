@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ShwetGund/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ShwetGund/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/ShwetGund/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShwetGund/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/ShwetGund/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ShwetGund/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ShwetGund/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
