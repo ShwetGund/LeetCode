@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ShwetGund/LeetCode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/ShwetGund/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -229,8 +230,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShwetGund/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/ShwetGund/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShwetGund/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ShwetGund/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
