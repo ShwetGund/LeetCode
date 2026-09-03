@@ -257,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ShwetGund/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/ShwetGund/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShwetGund/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ShwetGund/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
