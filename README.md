@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShwetGund/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ShwetGund/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ShwetGund/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/ShwetGund/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShwetGund/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/ShwetGund/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShwetGund/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/ShwetGund/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShwetGund/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShwetGund/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ShwetGund/LeetCode/tree/master/0175-combine-two-tables) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShwetGund/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
