@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShwetGund/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/ShwetGund/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/ShwetGund/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ShwetGund/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ShwetGund/LeetCode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShwetGund/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShwetGund/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ShwetGund/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShwetGund/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/ShwetGund/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ShwetGund/LeetCode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
