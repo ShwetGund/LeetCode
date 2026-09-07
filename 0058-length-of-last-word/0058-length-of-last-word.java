@@ -3,18 +3,11 @@ class Solution {
 
         String str[]=s.trim().split(" ");
         int n=str.length;
-
         String word=str[n-1];
-
         int count=0;
 
-    
-            count=word.length();
+        count=word.length();
         
-
-        return count;
-   
-
-        
+        return count;  
     }
 }
