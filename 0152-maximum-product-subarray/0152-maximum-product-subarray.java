@@ -5,7 +5,6 @@ class Solution {
         int leftPro=1;
         int rightPro=1;
         
-        
         for(int i=0;i<n;i++){
 
             leftPro=leftPro*nums[i];
