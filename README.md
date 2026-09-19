@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShwetGund/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShwetGund/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ShwetGund/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/ShwetGund/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShwetGund/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ShwetGund/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShwetGund/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShwetGund/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ShwetGund/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ShwetGund/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/ShwetGund/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ShwetGund/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShwetGund/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShwetGund/LeetCode/tree/master/0242-valid-anagram) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShwetGund/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShwetGund/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ShwetGund/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/ShwetGund/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ShwetGund/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShwetGund/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShwetGund/LeetCode/tree/master/0344-reverse-string) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShwetGund/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ShwetGund/LeetCode/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ShwetGund/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShwetGund/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShwetGund/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ShwetGund/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ShwetGund/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ShwetGund/LeetCode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/ShwetGund/LeetCode/tree/master/0509-fibonacci-number) |
@@ -329,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShwetGund/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ShwetGund/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/ShwetGund/LeetCode/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -350,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/ShwetGund/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ShwetGund/LeetCode/tree/master/1929-concatenation-of-array) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ShwetGund/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
