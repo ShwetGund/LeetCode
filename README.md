@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShwetGund/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShwetGund/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShwetGund/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/ShwetGund/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/ShwetGund/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ShwetGund/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/ShwetGund/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShwetGund/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShwetGund/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ShwetGund/LeetCode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/ShwetGund/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ShwetGund/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShwetGund/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ShwetGund/LeetCode/tree/master/0739-daily-temperatures) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ShwetGund/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShwetGund/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShwetGund/LeetCode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/ShwetGund/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/ShwetGund/LeetCode/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
